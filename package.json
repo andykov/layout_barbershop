@@ -1,0 +1,23 @@
+{
+  "name": "layout_barbershop",
+  "version": "1.0.0",
+  "description": "layout barbeshop static",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://andykov@github.com/andykov/layout_barbershop.git"
+  },
+  "author": "andykov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andykov/layout_barbershop/issues"
+  },
+  "homepage": "https://github.com/andykov/layout_barbershop#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "normalize.scss": "^0.1.0"
+  }
+}
